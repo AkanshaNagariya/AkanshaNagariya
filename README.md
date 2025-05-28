@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heya,+Devs!+👋;I'm+Akansha+Nagariya.;Welcome+to+my+GitHub+space!&center=true&size=30&color=ffffff&vCenter=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heya+there!+👋;I'm+Akansha+Nagariya.;Glad+you+stopped+by+my+profile!&center=true&size=30">
   </a>
 </h1>
 
@@ -65,14 +65,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=AkanshaNagariya&theme=dark&hide_border=false" />
-  <img width="396" src="https://github-readme-stats.vercel.app/api?username=AkanshaNagariya&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=AkanshaNagariya&theme=default&hide_border=false" />
+  <img width="396" src="https://github-readme-stats.vercel.app/api?username=AkanshaNagariya&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshaNagariya&theme=dark&hide_border=false&layout=compact" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshaNagariya&theme=default&hide_border=false&layout=compact" />
 </p>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanshaNagariya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkanshaNagariya&theme=default&hide_border=true" width="100%"/>
