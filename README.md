@@ -13,7 +13,7 @@
 ---
 
 ### ✨ About Me
-- 🎓 B.Tech in CSE (AI & ML) @ RCOEM Nagpur | CGPA: 9.73  
+- 🎓 B.Tech in CSE (AI & ML) @ RCOEM Nagpur | CGPA: 9.65  
 - 💡 I love building smart solutions that solve real-world problems  
 - 🧠 Skilled in AI, ML, DL, full-stack dev & scalable systems  
 - 🏆 Top 5% on LeetCode | SIH 2024 | Google AICTE-Eduskills Virtual Intern  
